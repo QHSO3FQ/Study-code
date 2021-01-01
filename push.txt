@@ -1,0 +1,3 @@
+just confirm git push local path
+[ssh]
+	git@github.com:Wlc-H2SbF7/Study-code.git
